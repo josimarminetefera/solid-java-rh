@@ -18,5 +18,5 @@ public class ValidacaoPeriodicidadeEntreReajustes implements ValidacaoReajuste {
 			throw new ValidacaoException("Intervalo deve ser de no mínimo 6 meses!");
 		}
 	}
-	
+
 }
