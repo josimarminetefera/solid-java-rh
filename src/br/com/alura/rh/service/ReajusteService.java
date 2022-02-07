@@ -11,6 +11,7 @@ import br.com.alura.rh.model.Funcionario;
 
 public class ReajusteService {
 
+	// PRINCIPIO DE LISCOV
 	private List<ValidacaoReajuste> validacoes;
 
 	public ReajusteService(List<ValidacaoReajuste> validacoes) {

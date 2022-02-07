@@ -24,9 +24,4 @@ public class ReajustePorAno implements Reajuste {
 		return data;
 	}
 
-	@Override
-	public BigDecimal valorImpostoRenda() {
-		return BigDecimal.ZERO;
-	}
-
 }
